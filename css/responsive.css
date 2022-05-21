@@ -1,0 +1,435 @@
+@media (max-width: 575.98px) { 
+
+    html{
+       overflow-x: hidden; 
+       scroll-behavior: smooth;
+    }
+
+    #banner{
+        padding: 120px 0;
+    }
+
+    .banner_cont h3 {
+        font-size: 35px ;
+        line-height: 60px ;
+    }
+
+    .banner_cont h1 {   
+        font-size: 45px 
+    }
+
+    .banner_cont h2 {   
+        font-size: 45px 
+    }
+
+    .banner_cont h1 {
+        line-height: 60px
+    }
+
+    .navbar-nav {
+    
+        text-align: center;
+    }
+
+   .menu_bg ul li {
+  
+        width: 20%;
+        margin: auto;
+    }
+
+    /* about part start*/
+
+    .about_img { 
+        width: 75%;
+        margin: 15px auto;
+    }
+
+    .about_overlay h4 {
+        font-size: 15px;
+
+    }
+
+    #about {
+        margin: 50px 0;
+    }
+
+ /* about part end*/
+ /* service part start*/
+
+
+
+ .common_header p {
+	padding: 60px 0 50px 0;
+}
+ #service {
+	padding: 80px 0;
+}
+
+#service .second_row {
+	margin-top: 9px;
+}
+
+.ser_item{
+    margin: 10px 0;
+}
+.ser_item i {
+	width: 35px;
+}
+
+
+ /* service part end*/
+ /* slider part start*/
+ .slider_img{
+    width: 20%;
+    margin: auto;
+ } 
+
+ .slider_content q {
+	font-size: 15px;
+}
+
+#testimonial .right {
+	visibility: hidden;
+
+}
+
+#testimonial .left {
+	visibility: hidden;
+
+}
+ /* testimonial part end*/
+ /* team part start*/
+ .team_img {
+
+	width: 75%;
+	margin:15px auto ;
+}
+
+.team_overlay .team_icon a {
+	font-size: 15px;
+
+
+}
+
+ /* team part end*/
+ /* work part start*/
+
+
+ #work {
+	padding: 0 0 45px 0;
+}
+ /* work part end*/
+ /* footer part start*/
+
+ .cntct{
+     margin: 30px 0;
+ }
+ .cntct input {
+
+
+    width: 100%;
+
+    
+}
+
+.cntct a { margin:10px auto; 
+    display: block;
+     text-align: center;
+      width: 45%; 
+      border-radius: 2px;
+     -webkit-border-radius: 2px;
+     -moz-border-radius: 2px;
+     -ms-border-radius: 2px;
+     -o-border-radius: 2px;
+}
+ /* footer part end*/
+ 
+}
+
+ @media (min-width: 576px) and (max-width: 767.98px) {
+     
+    html{
+        overflow-x: hidden; 
+        scroll-behavior: smooth;
+     }
+ 
+     #banner{
+         padding: 120px 0;
+     }
+ 
+     .banner_cont h3 {
+         font-size: 35px ;
+         line-height: 60px ;
+     }
+ 
+     .banner_cont h1 {   
+         font-size: 45px 
+     }
+ 
+     .banner_cont h2 {   
+         font-size: 45px 
+     }
+ 
+     .banner_cont h1 {
+         line-height: 60px
+     }
+ 
+     .navbar-nav {
+     
+         text-align: center;
+     }
+ 
+    .menu_bg ul li {
+   
+         width: 20%;
+         margin: auto;
+     }
+ 
+     /* about part start*/
+ 
+     .about_img { 
+         width: 75%;
+         margin: 15px auto;
+     }
+ 
+     .about_overlay h4 {
+         font-size: 15px;
+ 
+     }
+ 
+     #about {
+         margin: 50px 0;
+     }
+ 
+  /* about part end*/
+  /* service part start*/
+ 
+ 
+ 
+  .common_header p {
+     padding: 60px 0 50px 0;
+ }
+  #service {
+     padding: 80px 0;
+ }
+ 
+ #service .second_row {
+     margin-top: 9px;
+ }
+ 
+ .ser_item{
+     margin: 10px 0;
+ }
+ .ser_item i {
+     width: 35px;
+ }
+ 
+ 
+  /* service part end*/
+  /* slider part start*/
+  .slider_img{
+     width: 20%;
+     margin: auto;
+  } 
+ 
+  .slider_content q {
+     font-size: 15px;
+ }
+ 
+ #testimonial .right {
+     visibility: hidden;
+ 
+ }
+ 
+ #testimonial .left {
+     visibility: hidden;
+ 
+ }
+  /* testimonial part end*/
+  /* team part start*/
+  .team_img {
+ 
+     width: 75%;
+     margin:15px auto ;
+ }
+ 
+ .team_overlay .team_icon a {
+     font-size: 15px;
+ 
+ 
+ }
+ 
+  /* team part end*/
+  /* work part start*/
+ 
+ 
+  #work {
+     padding: 0 0 45px 0;
+ }
+  /* work part end*/
+  /* footer part start*/
+ 
+  .cntct{
+      margin: 30px 0;
+  }
+  .cntct input {
+ 
+ 
+     width: 80%;
+ 
+     
+ }
+ 
+
+  /* footer part end*/
+ }
+
+ @media (min-width: 768px) and (max-width: 991.98px) {
+    html{
+        overflow-x: hidden; 
+        scroll-behavior: smooth;
+     }
+ 
+     #banner{
+         padding: 120px 0;
+     }
+ 
+     .banner_cont h3 {
+         font-size: 35px ;
+         line-height: 60px ;
+     }
+ 
+     .banner_cont h1 {   
+         font-size: 45px 
+     }
+ 
+     .banner_cont h2 {   
+         font-size: 45px 
+     }
+ 
+     .banner_cont h1 {
+         line-height: 60px
+     }
+ 
+     .navbar-nav {
+     
+         text-align: center;
+     }
+ 
+    .menu_bg ul li {
+   
+         width: 20%;
+         margin: auto;
+     }
+ 
+     /* about part start*/
+ 
+     .about_img { 
+         width: 75%;
+         margin: 15px auto;
+     }
+ 
+     .about_overlay h4 {
+         font-size: 15px;
+ 
+     }
+ 
+     #about {
+         margin: 50px 0;
+     }
+ 
+  /* about part end*/
+  /* service part start*/
+ 
+ 
+ 
+  .common_header p {
+     padding: 60px 0 50px 0;
+ }
+  #service {
+     padding: 80px 0;
+ }
+ 
+ #service .second_row {
+     margin-top: 9px;
+ }
+ 
+ .ser_item{
+     margin: 10px 0;
+ }
+ .ser_item i {
+     width: 35px;
+ }
+ 
+ 
+  /* service part end*/
+  /* slider part start*/
+  .slider_img{
+     width: 20%;
+     margin: auto;
+  } 
+ 
+  .slider_content q {
+     font-size: 15px;
+ }
+ 
+ #testimonial .right {
+     visibility: hidden;
+ 
+ }
+ 
+ #testimonial .left {
+     visibility: hidden;
+ 
+ }
+  /* testimonial part end*/
+  /* team part start*/
+  .team_img {
+ 
+     width: 75%;
+     margin:15px auto ;
+ }
+ 
+ .team_overlay .team_icon a {
+     font-size: 15px;
+ 
+ 
+ }
+ 
+  /* team part end*/
+  /* work part start*/
+ 
+ 
+  #work {
+     padding: 0 0 45px 0;
+ }
+  /* work part end*/
+  /* footer part start*/
+ 
+  .cntct{
+      margin: 30px 0;
+  }
+  .cntct input {
+ 
+ 
+     width: 80%;
+ 
+     
+ }
+ }
+ @media (min-width:992px) and (max-width:1199.98px){
+    #testimonial .left {
+        color: #cfcfcf;
+        font-size: 25px;
+        position: absolute;
+        top: 50%;
+        left: 19px;
+        cursor: pointer;
+    }
+ }
+
+ @media (min-width:1200px) and (max-width:1399.98px){
+    #testimonial .left, #testimonial .right {
+     visibility: hidden;
+    }
+ }
